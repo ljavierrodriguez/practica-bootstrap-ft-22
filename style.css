@@ -1,0 +1,37 @@
+/* .text--green {
+    color: green;
+}
+
+.text--brown {
+    color: brown;
+} */
+
+.nav-link {
+    color: brown;
+    font-weight: 400;
+    font-size: 12px;
+    padding: 15px 0;
+}
+
+.active {
+    background-color: brown;
+    color: white !important;
+}
+
+.carousel-controls {
+    width: 80px;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel-controls div {
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
